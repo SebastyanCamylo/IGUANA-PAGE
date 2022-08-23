@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background-color: #000;
+}
+header{
+    background-color: #000;
+}
+header h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+header img{
+    width: 100%;
+}
+.desc{
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+.text-desc, img-desc{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+.text-desc{
+    width: 59%;
+    color: #fff;
+    
+}
+.img-desc{
+    width: 50%;
+    padding-left: 580px;
+    padding-top: 1rem;
+    
+
+}
+.text-des p{
+    padding: 1rem ;
+}
+
+footer p{
+text-align: center;
+padding: 2rem;
+color: #fff;
+}
+
+footer{
+    background-color: #1e1e1e;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+footer p a {
+    color: #fff;
+    text-decoration: none
+}
+.gallery{
+    padding: 2rem;
+    text-align: center;
+    background-color: #000;
+    border: 15px;
+}
+
+.gallery-img{
+    display: inline-block;
+    width: 33%;
+    height: 300px;
+}
+.gallery-img img{
+         width: 99%;
+         height: 90%;
+}
+.centrado{
+    margin: 30px;
+    border: 20px;
+    padding: 0px;
+}
+.icons{
+background-color: #1e1a13;
+color: #fff;
+padding: 3rem;
+}
+.icons h2{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Raleway';
+}
+.icons-item{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    padding: 3rem 0;
+    font-size: 2rem;
+}
+.icons-item{
+    padding: 1rem 0;
+    font-family:'Raleway';
+    font-weight: 300;
+}   
+
+
